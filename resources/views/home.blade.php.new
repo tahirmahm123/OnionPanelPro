@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+         <div class="row row-eq-height my-3">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="totalPins"><i class="icon-spinner"></i></div>
+                                            Total Users
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="registeredPins"><i class="icon-spinner"></i></div>
+                                            Registered Users
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="remainingPins"><i class="icon-spinner"></i></div>
+                                            Remaining Users
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="ownPins"><i class="icon-spinner"></i></div>
+                                            Own Created Pins
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="resellerPins"><i class="icon-spinner"></i></div>
+                                            Reseller Created User
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="ownActivePins"><i class="icon-spinner"></i></div>
+                                            Own Active Users
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="resellerActivePins"><i class="icon-spinner"></i></div>
+                                            Reseller Active Users
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <div class="card no-b mb-3">
+                                    <div class="card-body">
+                                        <div class="d-flex justify-content-between align-items-center">
+                                            <div>Last Update</div>
+                                            <div><span class="badge badge-pill badge-primary" id="lastUpdateTime">--:--</span></div>
+                                        </div>
+                                        <div class="text-center">
+                                            <div class="s-48 my-3 font-weight-lighter" id="onlineUsers"><i class="icon-spinner"></i></div>
+                                            Online Users
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
